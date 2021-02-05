@@ -20,7 +20,8 @@
 
 ![matematikselislemler](https://user-images.githubusercontent.com/65314278/107028972-53f65880-67bf-11eb-8779-6d7b36c92317.png)
 
-<i> Bu classımızda da temel görev, yazdırma ve istenilirse yapılan işlemleri bir depoda (.txt/.xlsx/.csv) "geçmiş" olarak kaydedebilmek adına oluşturuldu.Küçük bir update ile mevcut hale getirilebilir, düzeninde yazıldı.Her programcının ilk öğrendiği ve yazdığı ("Hello world!") çıktısını, Java da System.out.print(); satırı ile yazabiliyorduk.Bir çocuk programcı için ise bunu hiç ingilizce kelime kullanmayarak bir method ile yazdırmak istedim.Sadece her class ve method ile yaptığımız adımları burda da yazdırmak için yapabilir! Artık her şeyin çok daha basit olduğunu görelim.
+<i> Bu classımızda da temel görev, yazdırma ve istenilirse yapılan işlemleri bir depoda (.txt/.xlsx/.csv) "geçmiş" olarak kaydedebilmek adına oluşturuldu.Küçük bir update ile mevcut hale getirilebilir, düzeninde yazıldı.Her programcının ilk öğrendiği ve yazdığı ("Hello world!") çıktısını, Java da System.out.print(); satırı ile yazabiliyorduk.Bir çocuk programcı için ise bunu hiç ingilizce kelime kullanmayarak bir method ile yazdırmak istedim.Sadece her class ve method ile yaptığımız adımları burda da yazdırmak için yapabilir! Bu methodu çağırdığında her şeyi yazdırabilsin diye her değer tipimiz için aynı isim de bir method oluşturup hatanın önüne geçtim.Artık her şey çok daha basit.
 </i>
 ![sistemAraclari](https://user-images.githubusercontent.com/65314278/107033317-2bbe2800-67c6-11eb-8eb6-3bcbda3c3fcf.png)
 
+![çıktı](https://user-images.githubusercontent.com/65314278/107034272-886e1280-67c7-11eb-8e58-769e1d9c45bd.png)
